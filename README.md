@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mundanecoder
-- 👀 I’m interested in  machine learning , AI , webdevlopment , react native.
+- 👀 I’m interested in  machine learning , AI , Web development, react.
 - 💞️ I’m looking to collaborate on ... MY_PROJECT(COMING SOON).....
 - 📫 How to reach me dipankar.laskar45@gmail.com
 
