@@ -12,6 +12,13 @@ I'm a passionate developer with a keen interest in [your interests/technology st
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/dipankar-laskar-925a268a/))
 
 
+# Hello, I'm [Your Name] 👋
+
+## About Me
+
+I'm a passionate developer with a keen interest in Webdevelopment, data analytics and machine learning etc... I love building applications and exploring new technologies to solve real-world problems. I'm always eager to learn and improve my skills.
+
+
 
 ## Projects
 
@@ -25,11 +32,8 @@ Description of Project 2, its purpose, technologies used, and any other relevant
 
 ## Fun Animation
 
-Here's a simple animated SVG:
+Here's a simple animated GIF:
 
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="transparent">
-    <animate attributeName="r" from="10" to="40" dur="0.5s" begin="0s" repeatCount="indefinite" />
-  </circle>
-</svg>
+![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 
