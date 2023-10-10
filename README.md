@@ -1,4 +1,4 @@
-![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif) .                                                                                                      <br>
+![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)                                                                                                 <br>
 - 👋 Hi, I’m @mundanecoder
 
 
