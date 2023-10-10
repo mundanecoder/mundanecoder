@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on ... MY_PROJECT(COMING SOON).....
 - 📫 How to reach me dipankar.laskar45@gmail.com
 
+![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 # Hello, I'm [Your Name] 👋
 
 ## About Me
@@ -30,10 +32,8 @@ Description of Project 1, its purpose, technologies used, and any other relevant
 
 Description of Project 2, its purpose, technologies used, and any other relevant information.
 
-## Fun Animation
 
-Here's a simple animated GIF:
 
-![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+
 
 
