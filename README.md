@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mundanecoder
-![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
+![Random GIF](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif) <br>
 
 
 
