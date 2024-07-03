@@ -9,9 +9,9 @@
 - 💼 [LinkedIn](https://linkedin.com/in/dipankar-laskar)
 
 ## Skills
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express
-- **Machine Learning**: Python, TensorFlow, scikit-learn
-- **AI**: Natural Language Processing, Computer Vision
+- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Express, Fastify, Nextjs. Django.
+
+- **AI**: Natural Language Processing, LangChainJs
 
 ## Interests
 - Web Development
